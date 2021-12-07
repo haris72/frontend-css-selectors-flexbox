@@ -27,6 +27,7 @@ ul {
 }
 
 /* 1.4 Haal de text-decoration van navigatie-links weg, geef onbezochte links de kleur hsl(359, 79%, 56%) en verander de kleur wanneer de gebruiker er overheen hovert. */
+
 nav a{
     text-decoration: none;
     color: hsl(359, 79%, 56%)
